@@ -36,7 +36,7 @@ class Searching {
         Scanner sc = new Scanner(System.in);
         int choice = sc.nextInt();
 
-        System.out.println("menu driven program");
+        System.out.println("menu driven program :");
         switch (choice) {
             case 1:
                 linearSearch(a1, key);
